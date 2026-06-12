@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-shariah-compliant-liquidity-management
+description: "BIAN Service Domain: Shariah Compliant Liquidity Management (Manage pattern, Treasury Markets and Sukuk)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - manage
+annotations:
+  isb/business-area: "Treasury Markets and Sukuk"
+  isb/business-domain: "Islamic Treasury"
+  isb/asset-type: "Liquidity Position"
+  isb/control-record: "Liquidity Position Management Plan"
